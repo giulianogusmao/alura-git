@@ -1,0 +1,8 @@
+Desfazer alterações que não foram comitadas:
+    git checkout <file>
+
+Remover arquivos da staging area:
+    git reset HEAD <file>
+
+Desfazer commits:
+    git reset <numero do commit>
